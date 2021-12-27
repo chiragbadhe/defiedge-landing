@@ -1,0 +1,23 @@
+{
+  "AppFooter": {
+    "description": "Auto imported from components/global/AppFooter.vue"
+  },
+  "AppHeader": {
+    "description": "Auto imported from components/global/AppHeader.vue"
+  },
+  "AppHeaderJobs": {
+    "description": "Auto imported from components/global/AppHeaderJobs.vue"
+  },
+  "SectionsCommunity": {
+    "description": "Auto imported from components/sections/community.vue"
+  },
+  "SectionsFeatures": {
+    "description": "Auto imported from components/sections/features.vue"
+  },
+  "SectionsHero": {
+    "description": "Auto imported from components/sections/hero.vue"
+  },
+  "SectionsMainlogo": {
+    "description": "Auto imported from components/sections/mainlogo.vue"
+  }
+}

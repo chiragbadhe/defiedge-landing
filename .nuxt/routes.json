@@ -1,0 +1,23 @@
+[
+  {
+    "name": "jobs",
+    "path": "/jobs",
+    "component": "/Users/chiragbadhe/DefiEdge/defiedge-landing-page-v2/pages/jobs/index.vue",
+    "chunkName": "pages/jobs/index",
+    "_name": "_2e769334"
+  },
+  {
+    "name": "jobs-hero",
+    "path": "/jobs/hero",
+    "component": "/Users/chiragbadhe/DefiEdge/defiedge-landing-page-v2/pages/jobs/hero.vue",
+    "chunkName": "pages/jobs/hero",
+    "_name": "_79da1bd4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/chiragbadhe/DefiEdge/defiedge-landing-page-v2/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f97d7256"
+  }
+]

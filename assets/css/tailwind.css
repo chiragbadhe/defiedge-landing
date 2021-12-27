@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+/* ./assets/css/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.defaultColor {
+  background-color: #181818;
+}
+
+.darkBlack {
+  background-color: black;
+}
+
+.poppinsFont {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'DM Sans', sans-serif;
+}
